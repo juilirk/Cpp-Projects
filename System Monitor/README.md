@@ -1,4 +1,4 @@
-# CppND-System-Monitor
+# System-Monitor
 
 Starter code for System Monitor Project is given below.
 
