@@ -1,8 +1,6 @@
 # System-Monitor
 
-Starter code for System Monitor Project is given below.
-
-![System Monitor](images/monitor.png)
+Instructions for executing System Monitor Project is given below.
 
 ## ncurses
 [ncurses](https://www.gnu.org/software/ncurses/) is a library that facilitates text-based graphical output in the terminal. This project relies on ncurses for display output.
@@ -23,10 +21,7 @@ This project uses [Make](https://www.gnu.org/software/make/). The Makefile has f
 1. Build the project: `make build`
 
 2. Run the resulting executable: `./build/monitor`
-![Starting System Monitor](images/starting_monitor.png)
 
-3. Follow along with the lesson.
+3. Implement the `System`, `Process`, and `Processor` classes, as well as functions within the `LinuxParser` namespace.
 
-4. Implement the `System`, `Process`, and `Processor` classes, as well as functions within the `LinuxParser` namespace.
-
-5. Submit!
+4. Submit!
